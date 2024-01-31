@@ -1,0 +1,23 @@
+
+/* navigation styling */
+.nav-container nav ul {
+    display: inline-flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.nav-container li{
+    padding: 15px;
+    margin: auto;
+}
+
+/* home page styling */
+.intro {
+    padding: 15px;
+    text-align: center;
+}
+
+/* project page styling  */
+
+
+/* about page styling */
