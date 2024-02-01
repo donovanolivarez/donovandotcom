@@ -5,6 +5,9 @@ eleventyNavigation:
   order: 3
 layout: about.njk
 ---
+## A bit about me,
+
+I've been coding since high school, when I discovered I could dual boot Linux and Windows. But my curiousity was sparked early on when I played the PS1 and Dreamcast. I used to wonder what it took to make my controller speak to my gaming console, update the image on my TV, all in a responsive way.
 
 Video games have been my hobby since I can remember. I love talking about them, following the state of the industry, and of course playing them. I am currently learning Godot and C++ to program my own games.
 
